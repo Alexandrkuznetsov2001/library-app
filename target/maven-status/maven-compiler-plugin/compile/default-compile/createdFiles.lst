@@ -1,1 +1,4 @@
+com\example\library_app\controller\BookController.class
+com\example\library_app\model\Book.class
 com\example\library_app\LibraryAppApplication.class
+com\example\library_app\repository\BookRepository.class
