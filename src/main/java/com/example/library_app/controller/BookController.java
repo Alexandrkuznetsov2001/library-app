@@ -25,3 +25,5 @@ public class BookController {
         return repository.save(book);
     }
 }
+
+// Task 1 implementation
